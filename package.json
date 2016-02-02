@@ -19,7 +19,7 @@
   },
   "main": "./lib/mailcomposer",
   "dependencies": {
-    "buildmail": "3.3.2",
+    "buildmail": "git+https://github.com/schme16/buildmail.git",
     "libmime": "2.0.0"
   },
   "devDependencies": {
